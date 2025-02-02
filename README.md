@@ -2,6 +2,8 @@
 
 Este projeto é uma aplicação simples para gerenciar o cadastro de corretores, incluindo funcionalidades para adicionar, editar, excluir e listar corretores. A aplicação valida o CPF dos corretores antes de permitir o cadastro ou a atualização dos dados.
 
+[![Assista ao vídeo](https://img.youtube.com/vi/hJ9T4WYFjC0/0.jpg)](https://www.youtube.com/watch?v=hJ9T4WYFjC0)
+
 ## Funcionalidades
 - **Cadastro de Corretores**: Permite adicionar novos corretores ao sistema, validando o CPF antes do envio do formulário.
 - **Edição de Corretores**: Permite editar os dados de um corretor existente.
